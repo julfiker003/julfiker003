@@ -7,37 +7,51 @@ I'm a passionate and innovative Chief Technology Officer at ThorTech, specializi
 - **Go Bangladesh**: Worked as an Embedded System Engineer, contributing to various projects and innovations.
 
 ## 🌱 Learning
-- Advanced algorithms and data structures
 - Cloud computing and DevOps practices
+- Network Security
+- CyberSecurity
+- Docker
+- ServerOS
+- Nodejs
+- Wordpress
+- Zigbee/Zwave protocal
+- Advanced algorithms and data structures
 - Machine learning and AI
 
 ## 👯 Collaboration
 I'm open to collaborating on interesting projects, especially those involving:
 - Open-source development
+- SmartHome & Industrail Automation
+- PCB Design
+- IoT based automation
 - Innovative tech solutions
 - Educational content creation
 
 ## 💬 Ask Me About
 - IT Operations
-- Smart Grid
-- Software Development
+- IoT Devices and Sensors
 - Embedded System Design
+- Smart Grid
+- PCB design
 - Cloud Computing
 - Network Security
+- Home assistant 
+- Software Development
 
 ## 📫 How to Reach Me
 - **Location**: Victoria Park, Dhaka, Bangladesh
 - **Mobile**: +8801712748358
-- **Email**: julfiker003@outlook.com
+- **Email**: julfiker003@gmail.com
 - **LinkedIn**: [Julfiker](https://www.linkedin.com/in/julfiker003)
 - **GitHub**: [julfiker003](https://github.com/julfiker003)
 
 ## 🏆 Certifications
+- Google Cybersecurity Specialization
 - Advance Your Skills in AI and Machine Learning
 - Cisco Network Security: Safeguarding Network Integrity and Data
 - LinkedIn Learning Cloud Strategy Professional Certificate
 - Foundations of Cybersecurity
-- Google Cybersecurity Specialization
+
 
 ## ⚡ Fun Fact
 I enjoy solving complex Circuit Simulation and designing PCB in my free time.
