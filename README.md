@@ -40,7 +40,7 @@ I'm open to collaborating on interesting projects, especially those involving:
 - Google Cybersecurity Specialization
 
 ## ⚡ Fun Fact
-I enjoy solving complex puzzles and playing strategy games in my free time.
+I enjoy solving complex Circuit Simulation and designing PCB in my free time.
 
 ## 📚 Education
 - **Jagannath University, Dhaka**: Bachelor's degree in Computer Science (March 2017 - November 2022)
