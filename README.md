@@ -12,7 +12,7 @@ I'm a passionate and innovative Chief Technology Officer at ThorTech, specializi
 - CyberSecurity
 - Docker
 - ServerOS
-- Nodejs
+- Nextjs
 - Wordpress
 - Zigbee/Zwave protocal
 - Advanced algorithms and data structures
