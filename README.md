@@ -52,23 +52,15 @@ I'm open to collaborating on interesting projects, especially those involving:
 - LinkedIn Learning Cloud Strategy Professional Certificate
 - Foundations of Cybersecurity
 
-## 🏆 Certifications
+## Certifications
 
-| Certification | Issued By | Issue Date | Credential ID | Skills |
-| ------------- | --------- | ---------- | ------------- | ------ |
-| Google Cybersecurity Certificate | Coursera | Oct 2024 | O3ZT467SP0AH  | Digital Authentication, Cybersecurity Assessment, Information Assurance, Information Security, NIST Cybersecurity Framework, Risk Management Framework (RMF), Vulnerability Assessment |
-| Google Cybersecurity Specialization | Google | Oct 2024 | O3ZT467SP0AH | Security Information and Event Management (SIEM) tools, Packet Analyzer, Intrusion Detection Systems (IDS), Security Information and Event Management (SIEM) tool, Python Programming, SQL, Linux |
-| Advance Your Skills in AI and Machine Learning | LinkedIn | Sep 2024 | fa462c5f1adefb7 | Artificial Intelligence (AI), Machine Learning |
-| Cisco Network Security: Safeguarding Network Integrity and Data | LinkedIn | Sep 2024 | | Network Security, Cisco Networking |
-| Cloud Strategy Professional Certificate | LinkedIn | Sep 2024 |97ddcd4df4dd9 | Cloud Administration, Enterprise Architecture, Cloud Security |
-| Foundations of Cybersecurity | Google | Sep 2024 | 0TM69A74TOHO | |
-| AI for Organizational Leaders by Microsoft and LinkedIn | Microsoft AI | Aug 2024 | 88d888134f | Organizational Leadership, Technical Leadership, Responsible AI |
-| Computer Networks Security from Scratch to Advanced | EC-Council | Aug 2024 | 357543 | Network Security, Hypertext Transfer Protocol Secure (HTTPS), Cisco Firewall Security |
-| DevOps Professional Certificate by PagerDuty and LinkedIn | PagerDuty | Aug 2024 |4Djsdh5dfgoijgnj | Continuous Integration and Continuous Delivery (CI/CD), DevOps, Infrastructure as code (IaC), Cloud Administration |
-| GitHub Professional Certificate | GitHub | Aug 2024 | 2ff05094a0e | GitHub, Git BASH, GitHub Copilot, Gitlab, GitHub Atom, GitFlow |
-| Network Automation Professional Certificate by Arista Networks | Arista Networks | Aug 2024 | | Linux Network Administration, NetOps, Ansible, Terraform, Network Automation |
-| Data Analysis by Microsoft and LinkedIn | Microsoft | Jul 2024 |02fd61a48253379c | Data Analysis, Data Visualization, Big Data Analytics |
-| 21st Century Employability Skilling Program - Advanced | Wadhwani Foundation | Jan 2024 | 66cbeffa7a | Communication, Employability, Software Development |
+| Certification Title                               | Issuing Organization      | Issue Date  | Expiration Date | Credential ID | Credential URL           |
+|---------------------------------------------------|---------------------------|-------------|-----------------|---------------|--------------------------|
+| Certified Ethical Hacker (CEH)                    | EC-Council                | Jan 2021    | Jan 2024        | 123456789     | [View Credential](#)     |
+| AWS Certified Solutions Architect – Associate     | Amazon Web Services       | Mar 2020    | Mar 2023        | ABCDEFGHIJ    | [View Credential](#)     |
+| Google Cloud Professional Data Engineer           | Google Cloud              | Jun 2019    | Jun 2022        | KLMNOPQRST    | [View Credential](#)     |
+| [Certification Name from LinkedIn]                | [Issuing Organization]    | [Month Year]| [Month Year/N/A]| [Credential ID]| [View Credential](#)     |
+
 
 ## ⚡ Fun Fact
 I enjoy solving complex Circuit Simulation and designing PCB in my free time.
