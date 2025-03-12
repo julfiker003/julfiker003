@@ -53,8 +53,8 @@ I'm open to collaborating on interesting projects, especially those involving:
 - Foundations of Cybersecurity
 ## 🏆 Certifications
 
-| Certification | Issued By | Issue Date | Credential ID | Skills |
-| ------------- | --------- | ---------- | ------------- | ------ |
+| Certification | Issued By | Issue Date |  Skills |
+| ------------- | --------- | ---------- | ------ |
 | Google Cybersecurity Certificate | Coursera | Oct 2024 | | Digital Authentication, Cybersecurity Assessment, Information Assurance, Information Security, NIST Cybersecurity Framework, Risk Management Framework (RMF), Vulnerability Assessment |
 | Google Cybersecurity Specialization | Google | Oct 2024 | O3ZT467SP0AH | Security Information and Event Management (SIEM) tools, Packet Analyzer, Intrusion Detection Systems (IDS), Security Information and Event Management (SIEM) tool, Python Programming, SQL, Linux |
 | Advance Your Skills in AI and Machine Learning | LinkedIn | Sep 2024 | a4a99dd43255fac4270fec5a580bc5f1ad694e3c3b21ce893fa462c5f1adefb7 | Artificial Intelligence (AI), Machine Learning |
